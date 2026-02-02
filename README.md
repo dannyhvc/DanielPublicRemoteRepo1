@@ -1,3 +1,3 @@
 ﻿Hi, I'm Daniel Herrera. This repo is for practicing Git and GitHub.
 
-Local change
+Local change and remote change
