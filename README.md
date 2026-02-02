@@ -1,3 +1,2 @@
 ﻿Hi, I'm Daniel Herrera. This repo is for practicing Git and GitHub.
 
-Remote change made by Daniel Herrera
